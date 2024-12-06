@@ -1,0 +1,28 @@
+[
+{
+  "operacao": "Adicionar",
+  "nome": "Fatima",
+  "tempo_ms": 19.00
+},
+{
+  "operacao": "Adicionar",
+  "nome": "Lucas",
+  "tempo_ms": 3.00
+},
+{
+  "operacao": "Buscar",
+  "nome": "Fatima",
+  "tempo_ms": 6.00
+},
+{
+  "operacao": "Buscar",
+  "nome": "Lucas",
+  "tempo_ms": 5.00
+},
+{
+  "operacao": "Buscar",
+  "nome": "Jessica",
+  "tempo_ms": 6.00
+},
+
+]

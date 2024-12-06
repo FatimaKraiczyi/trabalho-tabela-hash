@@ -1,0 +1,113 @@
+PS C:\Users\787203\Downloads\ED2\trabalho-tabela-hash> gcc lista_telefonica_hash.c -o lista_telefonica_hash
+PS C:\Users\787203\Downloads\ED2\trabalho-tabela-hash> ./lista_telefonica_hash
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 4
+Nenhum contato encontrado.
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 1
+Digite o nome do contato: Fatima
+Digite o telefone do contato: 123456789
+Contato adicionado: Fatima - 123456789
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 1
+Digite o nome do contato: Lucas
+Digite o telefone do contato: 987654321
+Contato adicionado: Lucas - 987654321
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 2
+Digite o nome do contato para buscar: Fatima
+Encontrado: Fatima - 123456789
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 2
+Digite o nome do contato para buscar: Lucas
+Encontrado: Lucas - 987654321
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 2
+Digite o nome do contato para buscar: Jessica
+Contato nao encontrado: Jessica
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 3
+Digite o nome do contato para remover: Fatima
+Contato removido: Fatima
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 4
+Nome: Lucas - Telefone: 987654321
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 5
+
+Tempo medio de insercao: 11.00 ms
+Tempo medio de busca: 5.67 ms
+
+Escolha uma opcao:
+1 - Adicionar contato
+2 - Buscar contato por nome
+3 - Remover contato
+4 - Exibir todos os contatos
+5 - Mostrar tempos medios
+0 - Sair
+Digite uma opcao: 0
+Saindo...
+PS C:\Users\787203\Downloads\ED2\trabalho-tabela-hash> 
